@@ -1,4 +1,4 @@
-# 📝 Notes App - Flask
+# 📝 Notes App 
 
 Una aplicación web moderna para gestionar notas, con autenticación de usuarios y diseño responsive.
 
